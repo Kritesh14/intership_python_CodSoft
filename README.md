@@ -21,6 +21,32 @@ The To-Do List Application is Task 1 of the CodSoft Python Internship. It is a s
 
 This project is built using Python and utilizes the following libraries:
 
+
+🚀 Task 3 Completed | Contact Management System | #CodSoft Internship
+
+I'm excited to share that I have successfully completed Task 3 as part of my CodSoft internship! 🎉
+
+I built a Contact Management System in Python, which allows users to add, view, search, update, and delete contacts efficiently. This project helped me enhance my skills in file handling, data management, and user interaction design.
+
+🔹 Features Implemented:
+✔️ Add new contacts with name, phone, email, and address
+✔️ View the complete contact list
+✔️ Search contacts by name or phone number
+✔️ Update existing contact details
+✔️ Delete contacts securely
+✔️ Persistent storage using JSON for data management
+
+🔹 Technologies Used:
+🔹 Python - Core programming language
+🔹 JSON - For storing contact data persistently
+🔹 File Handling - Read & write data efficiently
+🔹 CLI-based UI - Simple and interactive user interface
+
+This project was a great learning experience, strengthening my understanding of CRUD operations, data structures, and user-friendly application development. Looking forward to the next challenge! 🚀
+
+Would love to hear your thoughts and feedback! 💬
+
+
 JSON Module: Used to store and retrieve tasks from a file (tasks.json) to ensure persistence.
 
 File Handling: Read and write data to tasks.json to keep task records saved.
